@@ -83,8 +83,8 @@ main{
 }
 
 .grid-item:hover{
-    filter: opacity(0.9);
-    transform: scale(1.04);
+    -webkit-transform: rotate(360deg);
+    transition: 1s;
 }
 
 

@@ -76,7 +76,7 @@ main{
 
 }
 
-.grid-item:hover{
+.grid-item:hover{s
     filter: opacity(0.9);
     transform: scale(1.04);
 }
