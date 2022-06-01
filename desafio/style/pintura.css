@@ -1,44 +1,46 @@
-*{
+/* *{
     margin: 0;
     padding:0;
     border:0;
     vertical-align: baseline;
     box-sizing: border-box;
     text-decoration: none;
-}
+} */
 
-header{
+
+
+/* header{
     background-color: rgba(0, 0, 0, 0.333);
     width: 100%;
     height: 50%;
     box-shadow: 1px 1px 5px #000;
 }
 
-
-a:hover{
+/*  */
+/* a:hover{
     color: rgb(255, 255, 255);
     background-color: rgba(84, 48, 35, 0.717);
     font: 13px verdana;
     padding: 13px;
-}
-
+} */ 
+/* 
 #menu{
     width: 60%;
     padding: 10px;
     margin: auto;
-}
+} */
 
-body{
+/* body{
     background-color: rgb(212, 208, 208);
-}
+} */
 
-ul li{
+/* ul li{
     font: 13px verdana;
     display: inline-block;
     padding: 13px;
-}
+} */
 
-.Texto1{
+/* .Texto1{
     padding-left: 30px;
     padding-top: 6px;
 }
@@ -46,15 +48,15 @@ ul li{
 .Texto2{
     padding-left: 30px;
     padding-top: 6px;
-}
+} */
 
-.Inicio{
+/* .Inicio{
     color: rgb(75, 0, 96);
     background-color: rgba(95, 95, 95, 0.717);
     font: 13px verdana;
     padding: 20px;
     padding-block: 100px;
-}
+} */
 
 /* footer{
     border: 3px;
